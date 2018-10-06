@@ -1,4 +1,6 @@
-##Multiplication Tables Console App
+## Multiplication Tables Console App
+
+Run Command
 
 ````````````
 npm install
