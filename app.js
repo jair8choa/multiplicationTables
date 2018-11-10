@@ -10,7 +10,7 @@ let limite = argv.limite;
 switch (comando) {
     case 'listar':
         listarTabla(base, limite)
-            .then(listar => console.log(`Listo!`.green))
+            .then(listar => console.log(`Listo!`.blue))
             .catch(e => console.log(e));
         break;
 
